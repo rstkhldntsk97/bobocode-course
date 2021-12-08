@@ -8,8 +8,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="algorithms" />
-        <module name="trimming-app" />
         <module name="lessons-demo" />
+        <module name="trimming-app" />
+        <module name="pooled-data-source" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
