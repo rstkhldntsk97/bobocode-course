@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="algorithms" />
         <module name="lessons-demo" />
+        <module name="custom-orm-session" />
         <module name="trimming-app" />
         <module name="pooled-data-source" />
       </profile>
